@@ -1,0 +1,43 @@
+{
+  "name": "وردست",
+  "short_name": "دستیار روزانه تو",
+  "theme_color": "#73B49D",
+  "background_color": "#093637",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "img/logo/logo32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo/logo64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo/logo128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo/logo384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
