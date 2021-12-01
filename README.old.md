@@ -1,1 +1,0 @@
-# vardast-frontend
