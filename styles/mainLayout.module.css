@@ -1,0 +1,9 @@
+.maxWidth {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #d7ded3;
+  height: calc(100vh - 70px);
+  z-index: 0;
+  position: relative;
+}
