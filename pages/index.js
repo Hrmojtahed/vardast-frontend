@@ -1,7 +1,12 @@
 import Head from "next/head";
 import Image from "next/image";
+import MainLayout from "../components/layout/MainLayout";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
-  return <div className={styles.container}>داشبورد</div>;
+  return (
+    <MainLayout>
+      <div>اصلی</div>
+    </MainLayout>
+  );
 }
